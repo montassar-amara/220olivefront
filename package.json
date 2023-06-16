@@ -1,0 +1,74 @@
+{
+  "name": "olive220",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://www.220olive.tn",
+  "dependencies": {
+    "@emailjs/browser": "^3.4.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@headlessui/react": "^1.5.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/icons-material": "^5.4.1",
+    "@mui/material": "^5.4.1",
+    "@reduxjs/toolkit": "^1.8.0",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react-select": "^5.0.1",
+    "axios": "^0.26.0",
+    "emailjs-com": "^3.2.0",
+    "formik": "^2.2.9",
+    "multiselect-react-dropdown": "^2.0.21",
+    "nuka-carousel": "^4.8.4",
+    "react": "^17.0.2",
+    "react-awesome-slider": "^4.1.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "^17.0.2",
+    "react-elastic-carousel": "^0.11.5",
+    "react-hook-form": "^7.27.0",
+    "react-material-ui-carousel": "^3.2.0",
+    "react-redux": "^7.2.6",
+    "react-responsive-carousel": "^3.2.22",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.28.1",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.19"
+  }
+}
